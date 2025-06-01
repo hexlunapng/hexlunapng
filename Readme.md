@@ -10,5 +10,5 @@ Fortnite Backend – for people who doesn't know coding and want to start a old 
 
 Sodium for BackTrak – backend for backtrak
 
-🛒 Shop & Services: Join the Discord for development, fortnite backends , and more!
+🛒 Shop & Services: Join the Discord for  fortnite backends, and more!
 https://discord.gg/Vb4mZdeGRR
