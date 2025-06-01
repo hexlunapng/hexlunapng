@@ -1,5 +1,8 @@
 Luna | JavaScript Developer
-🔹 Email: hex@corefn.xyz 🔹 GitHub Domains: Listed in my GitHub Bio 🔹 Discord: xlnk
+🔹 Email: hex@corefn.xyz 
+
+🔹 Domains: Listed in my GitHub Bio 🔹 Discord: xlnk
+
 
 🚀 Projects:
 
