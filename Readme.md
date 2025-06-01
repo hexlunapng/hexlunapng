@@ -1,13 +1,11 @@
-hi i am luna a javascript coder 
+Luna | JavaScript Developer
+🔹 Email: hex@corefn.xyz 🔹 GitHub Domains: Listed in my GitHub Bio 🔹 Discord: xlnk
 
+🚀 Projects:
 
+Fortnite Backend – for people who doesn't know coding and want to start a old fortnite project
 
-gmail: hex@corefn.xyz
+Sodium for BackTrak – backend for backtrak
 
-domains: in my bio on github
-
-discord: xlnk 
-
-
-Projects: fortnite-backend and sodium for backtrak and some more projects i code for.
-shop: https://discord.gg/Vb4mZdeGRR
+🛒 Shop & Services: Join the Discord for development, fortnite backends , and more!
+https://discord.gg/Vb4mZdeGRR
