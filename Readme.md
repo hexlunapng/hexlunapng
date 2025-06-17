@@ -1,6 +1,10 @@
 **🌸 Luna | JavaScript Developer 💻**
+
 💌 **Email**: [hex@corefn.xyz](mailto:hex@corefn.xyz)
+
+
 🌐 **GitHub**: [Check out my projects!](https://github.com/hexlunapng)
+
 🎮 **Discord**: xlnk
 
 
