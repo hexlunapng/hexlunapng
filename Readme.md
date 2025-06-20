@@ -10,7 +10,7 @@
 
 ### ✨ **Featured Projects**:
 
-🌟 **Fortnite Backend** – A perfect solution for newbies who want to dive into creating their own retro Fortnite servers. No coding skills required!
+🌟 **Fortnite Backend** – A perfect solution for newbies who want to dive into creating their own old Fortnite servers. No coding skills required!
 
 🌟 **Sodium for BackTrak** – Bringing you the best backend experience for BackTrak, built with love and care 💖
 
