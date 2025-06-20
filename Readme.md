@@ -11,7 +11,7 @@ JavaScript • Go • Rust • Ruby • HTML5
 
 ---
 
-### 🧪 Languages I Code In
+###  Languages I Code In
 
 ![Go](https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=Go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,6 +20,6 @@ JavaScript • Go • Rust • Ruby • HTML5
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Luna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexlunapng&layout=compact&theme=highcontrast&hide_border=true)
