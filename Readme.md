@@ -1,22 +1,25 @@
-**🌸 Luna | JavaScript Developer 💻**
+## 🌸 Luna
 
-💌 **Email**: [hex@corefn.xyz](mailto:hex@corefn.xyz)
+💌 [Email Me](mailto:hex@corefn.xyz)  
+🎮 Discord: **xlnk**
 
+---
 
+### 🚀 Tech I Love
 
-🎮 **Discord**: xlnk
+JavaScript • Go • Rust • Ruby • HTML5
 
+---
 
+### 🧪 Languages I Code In
 
-###  **Tech I Love**:
+![Go](https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=Go)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-grey?style=for-the-badge&logo=ruby)
 
+---
 
-### 🧪 Langs I Code In:
+### 📊 GitHub Stats
 
-![Go](https://img.shields.io/badge/Go%20%20-grey?style=for-the-badge&logo=Go)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-grey?style=for-the-badge&logo=ruby)
-
-
-![Luna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexlunapng\&layout=compact\&theme=highcontrast\&hide_border=true)
+![Luna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexlunapng&layout=compact&theme=highcontrast&hide_border=true)
