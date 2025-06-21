@@ -5,11 +5,6 @@
 
 ---
 
-### 🚀 Tech I Love
-
-JavaScript • Go • Rust • Ruby • HTML5
-
----
 
 ###  Languages I Code In
 
