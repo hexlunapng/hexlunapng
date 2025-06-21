@@ -17,8 +17,7 @@ JavaScript • Go • Rust • Ruby • HTML5
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Astro]
-![Ruby](https://img.shields.io/badge/Astro-grey?style=for-the-badge&logo=Astro)
+![Astro](https://img.shields.io/badge/Astro-grey?style=for-the-badge&logo=Astro)
 
 ![Ruby](https://img.shields.io/badge/Ruby-grey?style=for-the-badge&logo=ruby)
 
