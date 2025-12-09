@@ -1,11 +1,3 @@
-## 🌸 Luna
-
-💌 [Email Me](mailto:hex@corefn.xyz)  
-🎮 Discord: **xlnk**
-
----
-
-
 ###  Languages I Code In
 
 ![Go](https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=Go) 
